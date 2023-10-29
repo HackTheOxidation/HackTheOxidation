@@ -11,8 +11,7 @@ slightly Rustacean, occasional Haskeller who is learning JavaScript/TypeScript a
 
 Please, check out:
 
-- [My _Actual_ personal page](https://hacktheoxidation.codeberg.page/)
+- [My new _dazzling_ personal page](https://hacktheoxidation.github.io/)
 
-- 🔭 I’m currently working on stuff over at [Codeberg](https://codeberg.org/HackTheOxidation).
-- 🌱 I’m currently learning JavaScript/TypeScript with Deno.
+- 🔭 I'm currently playing with Functional Programming Languages like `F#` and `erlang`.
 - 👯 I’m looking to collaborate on some fun projects.
